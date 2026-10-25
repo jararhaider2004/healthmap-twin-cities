@@ -1,0 +1,2340 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-25T14:01:34Z",
+    "timestamp_areas_base": "2026-10-25T10:57:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 255764767,
+  "lat": 33.5816409,
+  "lon": 73.0492626,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "is_in": "Rawalpindi, Punjab, Pakistan",
+    "name": "CMH"
+  }
+},
+{
+  "type": "node",
+  "id": 255954369,
+  "lat": 33.5952769,
+  "lon": 73.0575140,
+  "tags": {
+    "amenity": "hospital",
+    "created_by": "Potlatch 0.8a",
+    "is_in": "Rawalpindi Cantt.",
+    "name": "Healthways"
+  }
+},
+{
+  "type": "node",
+  "id": 1362714223,
+  "lat": 33.5732000,
+  "lon": 73.1063687,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Safari Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 1412374742,
+  "lat": 33.5840620,
+  "lon": 73.0959490,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 1412407850,
+  "lat": 33.5859644,
+  "lon": 73.0890375,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Khatak chemist"
+  }
+},
+{
+  "type": "node",
+  "id": 1412407861,
+  "lat": 33.5865789,
+  "lon": 73.0880612,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Medicine Point"
+  }
+},
+{
+  "type": "node",
+  "id": 1414264857,
+  "lat": 33.5968821,
+  "lon": 73.0468407,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Pharmecy"
+  }
+},
+{
+  "type": "node",
+  "id": 1414865420,
+  "lat": 33.5861966,
+  "lon": 73.0886793,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "name": "Shaheen Pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 1423658185,
+  "lat": 33.5617870,
+  "lon": 73.1065099,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Hearts Pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 1672924410,
+  "lat": 33.6321494,
+  "lon": 73.0716944,
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "ڈی واٹسن کیمسٹ",
+    "name:en": "D Watson Chemist",
+    "name:ur": "ڈی واٹسن کیمسٹ"
+  }
+},
+{
+  "type": "node",
+  "id": 2013315334,
+  "lat": 33.6500798,
+  "lon": 73.0922567,
+  "tags": {
+    "amenity": "doctors",
+    "name": "Alrehman Family Clinic -- Lady Doctor Samina Azhar Awan",
+    "source": "Physical suvey -- SaafPindi"
+  }
+},
+{
+  "type": "node",
+  "id": 2016144810,
+  "lat": 33.6447870,
+  "lon": 73.0856435,
+  "tags": {
+    "amenity": "doctors",
+    "name": "Doctor Zarina Clinic (Dr. Zarina M.B.B.S & Dr. Saleha Masood Child Sp., Altrasound Sp.)",
+    "source": "Physical suvey -- SaafPindi"
+  }
+},
+{
+  "type": "node",
+  "id": 2016144811,
+  "lat": 33.6450203,
+  "lon": 73.0853096,
+  "tags": {
+    "amenity": "doctors",
+    "name": "Dr. Sarfraz Khan",
+    "source": "Physical suvey -- SaafPindi"
+  }
+},
+{
+  "type": "node",
+  "id": 2016149251,
+  "lat": 33.6439571,
+  "lon": 73.0854096,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "name": "Anabat Medical Store",
+    "source": "Physical suvey -- SaafPindi"
+  }
+},
+{
+  "type": "node",
+  "id": 2382402089,
+  "lat": 33.5635945,
+  "lon": 73.0811759,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Nawaz Memorial"
+  }
+},
+{
+  "type": "node",
+  "id": 2382456547,
+  "lat": 33.4065093,
+  "lon": 73.0941632,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Piyal Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 2389361975,
+  "lat": 33.4039970,
+  "lon": 73.0887052,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Piyal Govt Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 2441070147,
+  "lat": 33.6098102,
+  "lon": 73.0090668,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Chinese"
+  }
+},
+{
+  "type": "node",
+  "id": 2445280289,
+  "lat": 33.6066048,
+  "lon": 73.0166268,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Iqbal Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 2446525132,
+  "lat": 33.7352271,
+  "lon": 72.8262200,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "HIT Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 2452453305,
+  "lat": 33.6059169,
+  "lon": 73.0188593,
+  "tags": {
+    "amenity": "hospital",
+    "name": "nisar hospital",
+    "name:en": "nisar hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 2461171369,
+  "lat": 33.6065199,
+  "lon": 73.0168038,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Nghat Altrsound"
+  }
+},
+{
+  "type": "node",
+  "id": 2606410068,
+  "lat": 33.6365733,
+  "lon": 73.0775160,
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "addr:city:en": "Rawalpindi",
+    "addr:city:fr": "Rawalpindi",
+    "addr:city:pnb": "راولپنڈی",
+    "addr:city:ur": "راولپنڈی",
+    "addr:housenumber": "49A",
+    "addr:postcode": "44000",
+    "addr:street": "Iran Road",
+    "amenity": "hospital",
+    "email": "admin@brainsurgeryhospital.com",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general;neurosurgery;gynaecology;orthopaedics",
+    "name": "Brain Surgery Hospital",
+    "website": "https://brainsurgeryhospital.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 2623428760,
+  "lat": 33.3662641,
+  "lon": 73.2391354,
+  "tags": {
+    "addr:city": "Mandra",
+    "amenity": "doctors",
+    "name": "Rafaqat Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 2627507841,
+  "lat": 33.3951959,
+  "lon": 73.2897461,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Basic Health Unit"
+  }
+},
+{
+  "type": "node",
+  "id": 2640796926,
+  "lat": 33.5816327,
+  "lon": 73.0979880,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 2640851716,
+  "lat": 33.6055828,
+  "lon": 73.0583723,
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "addr:city:en": "Rawalpindi",
+    "addr:city:fr": "Rawalpindi",
+    "addr:city:pa": "ਰਾਵਲਪਿੰਡੀ",
+    "addr:city:pnb": "راولپنڈی",
+    "addr:city:ur": "راولپنڈی",
+    "amenity": "doctors",
+    "name": "Dr. Shafiq"
+  }
+},
+{
+  "type": "node",
+  "id": 2642297833,
+  "lat": 33.3653063,
+  "lon": 73.2398325,
+  "tags": {
+    "addr:city": "Mandra",
+    "amenity": "doctors",
+    "name": "KAMRAN CLINIC"
+  }
+},
+{
+  "type": "node",
+  "id": 2642308771,
+  "lat": 33.3668462,
+  "lon": 73.2384354,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Tariq Medical Store"
+  }
+},
+{
+  "type": "node",
+  "id": 2644132755,
+  "lat": 33.3664381,
+  "lon": 73.2390805,
+  "tags": {
+    "amenity": "pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 2668896365,
+  "lat": 33.5998733,
+  "lon": 73.1283915,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Unanimous Hospital and Laboratory"
+  }
+},
+{
+  "type": "node",
+  "id": 2668920461,
+  "lat": 33.5962565,
+  "lon": 73.1299175,
+  "tags": {
+    "amenity": "clinic",
+    "name": "Fatima Family Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 2668920470,
+  "lat": 33.5957011,
+  "lon": 73.1294865,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Al-Shifa Pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 2896892197,
+  "lat": 33.1878389,
+  "lon": 73.1393516,
+  "tags": {
+    "addr:city": "Daulatala",
+    "addr:street": "Daulatala Rd",
+    "amenity": "clinic",
+    "name": "Medical Store"
+  }
+},
+{
+  "type": "node",
+  "id": 3178814094,
+  "lat": 33.2124227,
+  "lon": 73.1025075,
+  "tags": {
+    "addr:city": "Jatli",
+    "addr:street": "Mandra Chakwal Road",
+    "amenity": "clinic",
+    "building:levels": "1",
+    "healthcare": "clinic",
+    "name": "RHC"
+  }
+},
+{
+  "type": "node",
+  "id": 3335659593,
+  "lat": 33.5905814,
+  "lon": 73.1335045,
+  "tags": {
+    "addr:street": "Railway Road S",
+    "amenity": "clinic",
+    "name": "Dar Medical Complex"
+  }
+},
+{
+  "type": "node",
+  "id": 3439434300,
+  "lat": 33.6144491,
+  "lon": 73.0089714,
+  "tags": {
+    "amenity": "clinic",
+    "name": "Msz Khan Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 3652815784,
+  "lat": 33.7431850,
+  "lon": 72.7826362,
+  "tags": {
+    "addr:city": "Wah Cantt",
+    "addr:housenumber": "Nawababad",
+    "addr:street": "Grand Trunk Road",
+    "amenity": "hospital",
+    "name": "Doctorz Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4082300074,
+  "lat": 33.6001519,
+  "lon": 73.0375314,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Anwar Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4082300079,
+  "lat": 33.6000488,
+  "lon": 73.0379027,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Al Sadiq-Saad Shaheed Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4101534190,
+  "lat": 33.5955533,
+  "lon": 73.0487632,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Nelson Pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 4146428757,
+  "lat": 33.6506950,
+  "lon": 73.0894975,
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "addr:city:en": "Rawalpindi",
+    "addr:city:fr": "Rawalpindi",
+    "addr:city:pa": "ਰਾਵਲਪਿੰਡੀ",
+    "addr:city:pnb": "راولپنڈی",
+    "addr:city:ur": "راولپنڈی",
+    "addr:postcode": "44000",
+    "addr:street": "Latif Plaza near Taxi stand, Dhok Kala Khan",
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Sohail Medical Clinic & Diagnostic Lab",
+    "operator": "Sohail Bacha"
+  }
+},
+{
+  "type": "node",
+  "id": 4252478793,
+  "lat": 33.6101818,
+  "lon": 73.0855021,
+  "tags": {
+    "addr:postcode": "46000",
+    "addr:street": "PAF Base Nur Khan ",
+    "amenity": "hospital",
+    "name": "Patient Care Centre",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 4273581690,
+  "lat": 33.5985245,
+  "lon": 73.0606375,
+  "tags": {
+    "addr:street": "Murree Road",
+    "amenity": "clinic",
+    "name": "Humdard Dawakhana"
+  }
+},
+{
+  "type": "node",
+  "id": 4409229790,
+  "lat": 33.6364530,
+  "lon": 73.0771008,
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "addr:city:en": "Rawalpindi",
+    "addr:city:fr": "Rawalpindi",
+    "addr:city:pa": "ਰਾਵਲਪਿੰਡੀ",
+    "addr:city:pnb": "راولپنڈی",
+    "addr:city:ur": "راولپنڈی",
+    "addr:street": "Iran Road",
+    "amenity": "clinic",
+    "name": "Heart Care Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 4423755494,
+  "lat": 33.6187218,
+  "lon": 72.9881036,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "raza medicose",
+    "name:en": "raza medicose"
+  }
+},
+{
+  "type": "node",
+  "id": 4423794492,
+  "lat": 33.6184461,
+  "lon": 72.9877922,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "shahid medicose",
+    "name:en": "shahid medicose"
+  }
+},
+{
+  "type": "node",
+  "id": 4467122089,
+  "lat": 33.6426353,
+  "lon": 73.0488314,
+  "tags": {
+    "amenity": "hospital",
+    "internet_access": "wlan"
+  }
+},
+{
+  "type": "node",
+  "id": 4475167191,
+  "lat": 33.6174945,
+  "lon": 73.0733784,
+  "tags": {
+    "amenity": "clinic",
+    "name": "Laprosy Hospital",
+    "opening_hours": "Mo-Fr"
+  }
+},
+{
+  "type": "node",
+  "id": 4534545605,
+  "lat": 33.7770166,
+  "lon": 72.7128376,
+  "tags": {
+    "addr:street": "Grand Trunk Road",
+    "amenity": "hospital",
+    "name": "Wah General hospital",
+    "name:en": "Wah General hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4582408114,
+  "lat": 33.8402207,
+  "lon": 72.7301323,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "AERO Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4590878152,
+  "lat": 33.5980529,
+  "lon": 73.0237556,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Farid Family Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4590914895,
+  "lat": 33.5978165,
+  "lon": 73.0237086,
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "addr:city:en": "Rawalpindi",
+    "addr:city:fr": "Rawalpindi",
+    "addr:city:pa": "ਰਾਵਲਪਿੰਡੀ",
+    "addr:city:pnb": "راولپنڈی",
+    "addr:city:ur": "راولپنڈی",
+    "addr:housenumber": "Farid Family Hospital",
+    "addr:street": "Range Road",
+    "amenity": "pharmacy",
+    "drive_through": "yes",
+    "name": "Nelson Pharmacy",
+    "note": "Farid Family Hospital, Behind Askari XI, Range Road, Rawalpindi",
+    "phone": "+92 51 5124485"
+  }
+},
+{
+  "type": "node",
+  "id": 4594376395,
+  "lat": 33.5969412,
+  "lon": 73.0468227,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "D watson",
+    "name:en": "D watson"
+  }
+},
+{
+  "type": "node",
+  "id": 4594402794,
+  "lat": 33.5968593,
+  "lon": 73.0469347,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Shaheen chemist",
+    "name:en": "Shaheen chemist"
+  }
+},
+{
+  "type": "node",
+  "id": 4594571080,
+  "lat": 33.5935408,
+  "lon": 73.0513990,
+  "tags": {
+    "addr:city": "Rawalpindi Cantt.",
+    "addr:postcode": "46000",
+    "addr:street": "مال روڈ",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Premium Diagnostic Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 4596125582,
+  "lat": 33.6508781,
+  "lon": 73.0887234,
+  "tags": {
+    "amenity": "clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 4603298715,
+  "lat": 33.6146108,
+  "lon": 72.9955142,
+  "tags": {
+    "amenity": "hospital",
+    "name": "family hospital",
+    "name:en": "family hospital",
+    "phone": "03044684629"
+  }
+},
+{
+  "type": "node",
+  "id": 4603323292,
+  "lat": 33.6144206,
+  "lon": 72.9962316,
+  "tags": {
+    "amenity": "clinic",
+    "name": "Bismillah diagonostic centre",
+    "name:en": "Bismillah diagonostic centre"
+  }
+},
+{
+  "type": "node",
+  "id": 4666195507,
+  "lat": 33.6415427,
+  "lon": 73.0579331,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Emergency Holy Family Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4692624592,
+  "lat": 33.6021195,
+  "lon": 73.0317435,
+  "tags": {
+    "addr:housenumber": "291-B(1)",
+    "addr:postcode": "46000",
+    "amenity": "hospital",
+    "email": "abrarsurgery1@yahoo.com",
+    "name": "Abrar Surgery",
+    "name:en": "Abrar Surgery",
+    "phone": "051-5565813"
+  }
+},
+{
+  "type": "node",
+  "id": 4720409791,
+  "lat": 33.6152537,
+  "lon": 73.0265796,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "سینٹ جوزف ہاسپیس",
+    "name:de": "Hospiz Sankt Joseph",
+    "name:en": "St Joseph Hospice",
+    "name:es": "Hospicio San José",
+    "name:ur": "سینٹ جوزف ہاسپیس"
+  }
+},
+{
+  "type": "node",
+  "id": 4785084521,
+  "lat": 33.5846404,
+  "lon": 73.0918658,
+  "tags": {
+    "addr:housenumber": "302",
+    "addr:postcode": "46000",
+    "addr:street": "Street 14",
+    "amenity": "doctors",
+    "email": "jatanoli@gmail.com",
+    "name": "J. A. TANOLI Residence",
+    "name:en": "J. A. TANOLI Residence",
+    "phone": "+923075000728"
+  }
+},
+{
+  "type": "node",
+  "id": 4786631410,
+  "lat": 33.6280326,
+  "lon": 73.0966195,
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "addr:city:en": "Rawalpindi",
+    "addr:city:fr": "Rawalpindi",
+    "addr:city:pa": "ਰਾਵਲਪਿੰਡੀ",
+    "addr:city:pnb": "راولپنڈی",
+    "addr:city:ur": "راولپنڈی",
+    "addr:street": "Khanna Road",
+    "amenity": "clinic",
+    "name": "Emaan Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 4863150921,
+  "lat": 33.5996076,
+  "lon": 73.1273287,
+  "tags": {
+    "addr:postcode": "46000",
+    "addr:street": "Street 18",
+    "amenity": "clinic",
+    "name": "Al Ghufran Hijama Centre",
+    "opening_hours": "Mo-Su 09:00-18:00",
+    "phone": "03155115035",
+    "website": "https://www.alhijamah.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4898664821,
+  "lat": 33.6396635,
+  "lon": 73.0745146,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Pioneer Labs &  Clinic for Pets",
+    "name:en": "Pioneer Labs &  Clinic for Pets",
+    "phone": "+920512510958"
+  }
+},
+{
+  "type": "node",
+  "id": 4899250509,
+  "lat": 33.6549354,
+  "lon": 73.0818800,
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "addr:city:en": "Rawalpindi",
+    "addr:city:fr": "Rawalpindi",
+    "addr:city:pa": "ਰਾਵਲਪਿੰਡੀ",
+    "addr:city:pnb": "راولپنڈی",
+    "addr:city:ur": "راولپنڈی",
+    "addr:street": "Murree Road",
+    "amenity": "clinic",
+    "name": "Ali Homeopathic Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 4899252258,
+  "lat": 33.6418166,
+  "lon": 73.0782873,
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "addr:city:en": "Rawalpindi",
+    "addr:city:fr": "Rawalpindi",
+    "addr:city:pa": "ਰਾਵਲਪਿੰਡੀ",
+    "addr:city:pnb": "راولپنڈی",
+    "addr:city:ur": "راولپنڈی",
+    "addr:street": "6th Road",
+    "amenity": "hospital",
+    "name": "Urgent Medical Diagnostics Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 4899417042,
+  "lat": 33.6353124,
+  "lon": 73.0765410,
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "addr:city:en": "Rawalpindi",
+    "addr:city:fr": "Rawalpindi",
+    "addr:city:pa": "ਰਾਵਲਪਿੰਡੀ",
+    "addr:city:pnb": "راولپنڈی",
+    "addr:city:ur": "راولپنڈی",
+    "addr:street": "Iran Road",
+    "amenity": "hospital",
+    "name": "Gulf Medical Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 4899417047,
+  "lat": 33.6338782,
+  "lon": 73.0769578,
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "addr:city:en": "Rawalpindi",
+    "addr:city:fr": "Rawalpindi",
+    "addr:city:pa": "ਰਾਵਲਪਿੰਡੀ",
+    "addr:city:pnb": "راولپنڈی",
+    "addr:city:ur": "راولپنڈی",
+    "addr:street": "Sadiqabad Road",
+    "amenity": "hospital",
+    "name": "Ahmad Medical Complex"
+  }
+},
+{
+  "type": "node",
+  "id": 4901403880,
+  "lat": 33.6278652,
+  "lon": 73.0701392,
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "addr:city:en": "Rawalpindi",
+    "addr:city:fr": "Rawalpindi",
+    "addr:city:pa": "ਰਾਵਲਪਿੰਡੀ",
+    "addr:city:pnb": "راولپنڈی",
+    "addr:city:ur": "راولپنڈی",
+    "addr:street": "Murree Road",
+    "amenity": "pharmacy",
+    "name": "Citi Lab"
+  }
+},
+{
+  "type": "node",
+  "id": 4901403882,
+  "lat": 33.6267021,
+  "lon": 73.0694116,
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "addr:city:en": "Rawalpindi",
+    "addr:city:fr": "Rawalpindi",
+    "addr:city:pa": "ਰਾਵਲਪਿੰਡੀ",
+    "addr:city:pnb": "راولپنڈی",
+    "addr:city:ur": "راولپنڈی",
+    "addr:street": "Murree Road",
+    "amenity": "pharmacy",
+    "name": "APPLE PHARMACY"
+  }
+},
+{
+  "type": "node",
+  "id": 4942253043,
+  "lat": 33.6393226,
+  "lon": 73.0579976,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Kashmir pharmacy",
+    "name:en": "Kashmir pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 4942271323,
+  "lat": 33.6354707,
+  "lon": 73.0661308,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Eidhi",
+    "name:en": "Eidhi"
+  }
+},
+{
+  "type": "node",
+  "id": 4942272724,
+  "lat": 33.6398376,
+  "lon": 73.0593055,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Chemist",
+    "name:en": "Chemist"
+  }
+},
+{
+  "type": "node",
+  "id": 4942272821,
+  "lat": 33.6375234,
+  "lon": 73.0631946,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "D-Watson",
+    "name:en": "D-Watson"
+  }
+},
+{
+  "type": "node",
+  "id": 4942272822,
+  "lat": 33.6370475,
+  "lon": 73.0630724,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Shaheen chemist",
+    "name:en": "Shaheen chemist"
+  }
+},
+{
+  "type": "node",
+  "id": 4942273023,
+  "lat": 33.6325420,
+  "lon": 73.0594565,
+  "tags": {
+    "amenity": "clinic",
+    "name": "Doctor Tariq Ghani clinic",
+    "name:en": "Doctor Tariq Ghani clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 4996056821,
+  "lat": 33.6015683,
+  "lon": 72.9791653,
+  "tags": {
+    "amenity": "clinic",
+    "name": "Dr.  Zia ul Haq MBBS Karam abad",
+    "name:en": "Dr.  Zia ul Haq MBBS Karam abad",
+    "opening_hours": "Mo-Su 09:00-13:00"
+  }
+},
+{
+  "type": "node",
+  "id": 5007417222,
+  "lat": 33.5798640,
+  "lon": 73.0469363,
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 5183619921,
+  "lat": 33.5969941,
+  "lon": 73.0412225,
+  "tags": {
+    "addr:street": "Abid Majeed Road",
+    "amenity": "clinic",
+    "name": "Maj Gen Salman Ali Clinic",
+    "phone": "0515136908"
+  }
+},
+{
+  "type": "node",
+  "id": 5259747058,
+  "lat": 33.6191432,
+  "lon": 73.0340847,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Railway Workshop Road",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Railway Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 5301302321,
+  "lat": 33.6290729,
+  "lon": 73.0697680,
+  "tags": {
+    "addr:street": "Murree Road",
+    "amenity": "pharmacy",
+    "name": "city lab"
+  }
+},
+{
+  "type": "node",
+  "id": 5401621522,
+  "lat": 33.7915203,
+  "lon": 72.7226783,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Shokat Memorial Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 5416875311,
+  "lat": 33.7853984,
+  "lon": 72.7244456,
+  "tags": {
+    "addr:city": "Wah Cantt",
+    "addr:country": "PK",
+    "addr:housenumber": "B-45",
+    "addr:street": "Minar Road",
+    "amenity": "clinic",
+    "facebook": "https://www.facebook.com/Dr-Amna-Usman-709912135686803/?ref=nf&hc_ref=ARTKuC7mJ5jif2vRsB-A2GiCsda5vrOesUTKXERJp18PYS7z9wYb5fDmKCOesnX7ffs",
+    "name": "Amna Skin Care and Hair Transplant"
+  }
+},
+{
+  "type": "node",
+  "id": 5436199902,
+  "lat": 33.6455474,
+  "lon": 73.0922834,
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "addr:city:en": "Rawalpindi",
+    "addr:city:fr": "Rawalpindi",
+    "addr:city:pa": "ਰਾਵਲਪਿੰਡੀ",
+    "addr:city:pnb": "راولپنڈی",
+    "addr:city:ur": "راولپنڈی",
+    "addr:postcode": "46000",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Health Services Pharmacy",
+    "operator": "Tahir Khanzada"
+  }
+},
+{
+  "type": "node",
+  "id": 5568817324,
+  "lat": 33.6350380,
+  "lon": 73.0715097,
+  "tags": {
+    "addr:housenumber": "235/3",
+    "addr:street": "Gulzar e Fatima Park",
+    "amenity": "clinic",
+    "name": "Speech Therapy STCICLD",
+    "phone": "+923329344003"
+  }
+},
+{
+  "type": "node",
+  "id": 5617897022,
+  "lat": 33.5788323,
+  "lon": 73.0467102,
+  "tags": {
+    "amenity": "hospital",
+    "name": "OT Complex CMH"
+  }
+},
+{
+  "type": "node",
+  "id": 5617899521,
+  "lat": 33.6102975,
+  "lon": 73.0855158,
+  "tags": {
+    "addr:street": "PAF Base Nur Khan",
+    "amenity": "clinic",
+    "name": "Family Medical Wing"
+  }
+},
+{
+  "type": "node",
+  "id": 5629331922,
+  "lat": 33.7886202,
+  "lon": 72.7255649,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Fatima Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 5979229385,
+  "lat": 33.6386926,
+  "lon": 73.0632605,
+  "tags": {
+    "addr:street": "Saidpur Road",
+    "amenity": "clinic",
+    "name": "Prof Dr. Aslam Chaudhry ENT Specilist",
+    "phone": "0514426886"
+  }
+},
+{
+  "type": "node",
+  "id": 6431224745,
+  "lat": 33.6364419,
+  "lon": 73.0626239,
+  "tags": {
+    "amenity": "pharmacy",
+    "contact:facebook": "https://www.facebook.com/Health-Wellness-Pharmcy-Saidpur-Road-rawalpindi-1852956941619460/",
+    "name": "Health & Wellness"
+  }
+},
+{
+  "type": "node",
+  "id": 7015066185,
+  "lat": 33.5777397,
+  "lon": 73.0471312,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Officers Family Ward CMH Rawalpindi"
+  }
+},
+{
+  "type": "node",
+  "id": 7124277786,
+  "lat": 33.6047728,
+  "lon": 73.0085042,
+  "tags": {
+    "addr:street": "Misrial Road",
+    "amenity": "pharmacy",
+    "name": "Sky pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 7230243994,
+  "lat": 33.6407550,
+  "lon": 73.0788445,
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "addr:city:en": "Rawalpindi",
+    "addr:city:fr": "Rawalpindi",
+    "addr:city:pa": "ਰਾਵਲਪਿੰਡੀ",
+    "addr:city:pnb": "راولپنڈی",
+    "addr:city:ur": "راولپنڈی",
+    "addr:housenumber": "78A",
+    "addr:postcode": "44000",
+    "addr:street": "Iran Road",
+    "amenity": "hospital",
+    "email": "admin@twincitylab.com",
+    "healthcare": "hospital",
+    "healthcare:speciality": "diagnostic_radiology;haematology;blood_check;blood_bank;cardiology",
+    "name": "Twin City Diagnostics",
+    "website": "https://twincitylab.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 7248868035,
+  "lat": 33.5329526,
+  "lon": 73.0558386,
+  "tags": {
+    "amenity": "dentist",
+    "contact:facebook": "https://www.facebook.com/pages/category/Oral-Surgeon/The-Dental-Hub-1228619313952796/",
+    "name": "The Dental Hub"
+  }
+},
+{
+  "type": "node",
+  "id": 7284590738,
+  "lat": 33.5983726,
+  "lon": 73.0462166,
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "addr:city:en": "Rawalpindi",
+    "addr:city:fr": "Rawalpindi",
+    "addr:city:pa": "ਰਾਵਲਪਿੰਡੀ",
+    "addr:city:pnb": "راولپنڈی",
+    "addr:city:ur": "راولپنڈی",
+    "addr:housenumber": "4th Floor",
+    "addr:postcode": "46000",
+    "addr:street": "Mahfooz Road",
+    "amenity": "hospital",
+    "emergency": "no",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general",
+    "name": "Rahmat Noor Clinic",
+    "operator": "Dr. Javaid Mehmood Malik",
+    "operator:type": "private"
+  }
+},
+{
+  "type": "node",
+  "id": 7722844785,
+  "lat": 33.6057650,
+  "lon": 73.0187797,
+  "tags": {
+    "addr:housenumber": "604-A",
+    "addr:street": "Peshawer Road",
+    "amenity": "clinic",
+    "email": "drmnaeemkhan@yahoo.com",
+    "name": "Major General (Retired) Dr. Mohammad Naeem Khan Neuro-Physician",
+    "operator": "Major General (R) Dr. Muhammad Naeem Khan (Neurophysician)",
+    "phone": "+923335145392"
+  }
+},
+{
+  "type": "node",
+  "id": 8093809419,
+  "lat": 33.6043491,
+  "lon": 73.0757960,
+  "tags": {
+    "addr:street": "Tipu Road",
+    "amenity": "pharmacy",
+    "name": "Zeeshan Chemist"
+  }
+},
+{
+  "type": "node",
+  "id": 8266905517,
+  "lat": 33.5596878,
+  "lon": 73.0875818,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Asia kidney hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 8383739517,
+  "lat": 33.6290183,
+  "lon": 73.0675033,
+  "tags": {
+    "addr:housenumber": "256",
+    "addr:street": "Asghar Mall Road",
+    "amenity": "clinic",
+    "name": "Haji Muhammad Bashir مطب ہڈی جوڑ",
+    "opening_hours": "Mo-Su 08:00-20:00",
+    "phone": "0514415145"
+  }
+},
+{
+  "type": "node",
+  "id": 8484018637,
+  "lat": 33.5982203,
+  "lon": 72.9934468,
+  "tags": {
+    "addr:housenumber": "3",
+    "addr:street": "Chakra Road",
+    "amenity": "pharmacy",
+    "name": "Swati Pharmacy & Cosmatics"
+  }
+},
+{
+  "type": "node",
+  "id": 8904646422,
+  "lat": 33.3778860,
+  "lon": 72.8463813,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Fatima Tuz Zahra Mother &Child Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 8976467291,
+  "lat": 33.3636827,
+  "lon": 72.8788879,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "General Block Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 11411763449,
+  "lat": 33.2359563,
+  "lon": 72.6707028,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Govt Hospital Harnia Wala"
+  }
+},
+{
+  "type": "node",
+  "id": 11669193623,
+  "lat": 33.6500194,
+  "lon": 73.0956311,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "dentistry;dental_oral_maxillo_facial_surgery;dentist",
+    "name": "Shifa College of Dentistry"
+  }
+},
+{
+  "type": "node",
+  "id": 12014280627,
+  "lat": 33.5076059,
+  "lon": 73.0447003,
+  "tags": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Ghazi Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 12056081581,
+  "lat": 33.5972995,
+  "lon": 73.0468936,
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "addr:postcode": "46000",
+    "addr:street": "Mega Medical Complex, Saddar, Rawalpindi,",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Mega Medical Complex"
+  }
+},
+{
+  "type": "node",
+  "id": 13240932685,
+  "lat": 33.5979608,
+  "lon": 73.0456500,
+  "tags": {
+    "addr:street": "Peshawar Road",
+    "amenity": "hospital",
+    "description": "Islamabad Diagnostic Center",
+    "name": "IDC",
+    "opening_hours": "Mo-Sa 09:00-22:00",
+    "phone": "+923111000432",
+    "website": "https://idc.net.pk/"
+  }
+},
+{
+  "type": "node",
+  "id": 13426375201,
+  "lat": 33.6080157,
+  "lon": 72.8673256,
+  "tags": {
+    "addr:street": "62",
+    "amenity": "hospital",
+    "internet_access": "wlan",
+    "name:en": "Hanif Medical Complex - Faisal Town, Islamabad",
+    "opening_hours": "24/7",
+    "phone": "+92 306 8487999",
+    "website": "https://hanifmedical.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 13426380801,
+  "lat": 33.6094003,
+  "lon": 72.8660711,
+  "tags": {
+    "addr:street": "57",
+    "amenity": "hospital",
+    "internet_access": "wlan",
+    "name:en": "Hanif Medical Complex - Faisal Town, Islamabad",
+    "opening_hours": "24/7",
+    "phone": "+92 306 8487999",
+    "website": "https://hanifmedical.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 13433015401,
+  "lat": 33.5621430,
+  "lon": 73.1183405,
+  "tags": {
+    "addr:housenumber": "12",
+    "addr:postcode": "45710",
+    "addr:street": "Pearl Arcade",
+    "amenity": "clinic",
+    "email": "Info@skindotclinics.com",
+    "name": "Clinic",
+    "opening_hours": "Su-Fr 14:00-20:00",
+    "phone": "03421234041",
+    "website": "https://skindotclinics.com"
+  }
+},
+{
+  "type": "node",
+  "id": 13433015901,
+  "lat": 33.5640389,
+  "lon": 73.1194964,
+  "tags": {
+    "amenity": "clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 13539483302,
+  "lat": 33.5798938,
+  "lon": 73.0458943,
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 13539488601,
+  "lat": 33.5798719,
+  "lon": 73.0459138,
+  "tags": {
+    "amenity": "hospital",
+    "name": "AFIP Lboratory CMH Rawalpindi"
+  }
+},
+{
+  "type": "node",
+  "id": 13625871628,
+  "lat": 33.3414226,
+  "lon": 73.4999855,
+  "tags": {
+    "addr:city": "سموٹ",
+    "addr:country": "PK",
+    "addr:housenumber": "1",
+    "addr:street": "Samote Hospatal Road",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "MNHC (Maryam Nawaz Health Clinic",
+    "name:ur": "ایم این ایچ سی (مریم نواز ہیلتھ کلینک"
+  }
+},
+{
+  "type": "node",
+  "id": 14274808554,
+  "lat": 33.6236278,
+  "lon": 73.1077051,
+  "tags": {
+    "addr:city": "Rawalpindi",
+    "addr:housenumber": "292",
+    "addr:postcode": "46000",
+    "addr:street": "Dr Qadeer Khan Road",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "dental_oral_maxillo_facial_surgery",
+    "mobile": "0092 3130056477",
+    "name": "Toothwise by Dr Osama Razzaq"
+  }
+},
+{
+  "type": "way",
+  "id": 23131106,
+  "center": {
+    "lat": 33.6406495,
+    "lon": 73.0569393
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "is_in": "Rawalpindi, Islamabad",
+    "name": "Holy Family Hospital",
+    "wikidata": "Q30279984",
+    "wikipedia": "en:Holy Family Hospital, Rawalpindi"
+  }
+},
+{
+  "type": "way",
+  "id": 23526696,
+  "center": {
+    "lat": 33.5989984,
+    "lon": 73.0611868
+  },
+  "tags": {
+    "amenity": "hospital",
+    "area": "yes",
+    "created_by": "Potlatch 0.8",
+    "name": "Al Ihsan Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 23615365,
+  "center": {
+    "lat": 33.6126522,
+    "lon": 73.0529771
+  },
+  "tags": {
+    "amenity": "hospital",
+    "area": "yes",
+    "healthcare": "hospital",
+    "name": "DHQ Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 23615388,
+  "center": {
+    "lat": 33.5971466,
+    "lon": 73.0448193
+  },
+  "tags": {
+    "addr:postcode": "23451",
+    "addr:street": "MH Entrance",
+    "amenity": "hospital",
+    "building": "yes",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "healthcare:speciality": "cardiology",
+    "name": "AFIC (Armed Forces Institute of Cardiology)",
+    "opening_hours": "24/7",
+    "phone": "0302 5002553"
+  }
+},
+{
+  "type": "way",
+  "id": 23628336,
+  "center": {
+    "lat": 33.5970392,
+    "lon": 73.0469010
+  },
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "addr:postcode": "46000",
+    "addr:street": "Mega Medical Complex, Saddar, Rawalpindi, Punjab 46000",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Mega Medical Complex,"
+  }
+},
+{
+  "type": "way",
+  "id": 26270386,
+  "center": {
+    "lat": 33.5802205,
+    "lon": 73.0499032
+  },
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "is_in": "Rawalpindi, Punjab, Pakistan",
+    "name": "Combined Military Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 154535083,
+  "center": {
+    "lat": 33.6338507,
+    "lon": 73.0788869
+  },
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "addr:city:en": "Rawalpindi",
+    "addr:city:fr": "Rawalpindi",
+    "addr:city:pa": "ਰਾਵਲਪਿੰਡੀ",
+    "addr:city:pnb": "راولپنڈی",
+    "addr:city:ur": "راولپنڈی",
+    "addr:street": "Sadiqabad Road",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general;emergency",
+    "internet_access": "yes",
+    "name": "Bilal Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 229815093,
+  "center": {
+    "lat": 33.6155931,
+    "lon": 73.0806386
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "cardiology",
+    "name": "Rawalpindi Institute of Cardiology",
+    "wikidata": "Q14956839",
+    "wikipedia": "en:Rawalpindi Institute of Cardiology"
+  }
+},
+{
+  "type": "way",
+  "id": 230098290,
+  "center": {
+    "lat": 33.5812680,
+    "lon": 73.0460561
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "AFPGMI"
+  }
+},
+{
+  "type": "way",
+  "id": 230209332,
+  "center": {
+    "lat": 33.6195331,
+    "lon": 73.0339780
+  },
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 230405376,
+  "center": {
+    "lat": 33.5542000,
+    "lon": 73.0806970
+  },
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Attock Hospital (Ptv) Limited"
+  }
+},
+{
+  "type": "way",
+  "id": 230792274,
+  "center": {
+    "lat": 33.6034495,
+    "lon": 73.0290527
+  },
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Hassan Clinic"
+  }
+},
+{
+  "type": "way",
+  "id": 230792287,
+  "center": {
+    "lat": 33.6040541,
+    "lon": 73.0242747
+  },
+  "tags": {
+    "addr:city": "New Awan Town",
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Valley Clinic"
+  }
+},
+{
+  "type": "way",
+  "id": 230792289,
+  "center": {
+    "lat": 33.6039470,
+    "lon": 73.0245684
+  },
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Maryam Mamorial Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 231202008,
+  "center": {
+    "lat": 33.6038210,
+    "lon": 73.0246884
+  },
+  "tags": {
+    "addr:city": "New Awan Town",
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Nusrat Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 231202009,
+  "center": {
+    "lat": 33.6040853,
+    "lon": 73.0240254
+  },
+  "tags": {
+    "addr:city": "New Awan Town",
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Azmat Rashid"
+  }
+},
+{
+  "type": "way",
+  "id": 231288591,
+  "center": {
+    "lat": 33.5592305,
+    "lon": 73.0879948
+  },
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "addr:city:en": "Rawalpindi",
+    "addr:city:fr": "Rawalpindi",
+    "addr:city:pa": "ਰਾਵਲਪਿੰਡੀ",
+    "addr:city:pnb": "راولپنڈی",
+    "addr:city:ur": "راولپنڈی",
+    "addr:street": "Grand Trunk Road",
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Al Syed Hospital Kidney Center",
+    "opening_hours": "Mo-Sa 12:00-16:00"
+  }
+},
+{
+  "type": "way",
+  "id": 231288593,
+  "center": {
+    "lat": 33.5586435,
+    "lon": 73.0893861
+  },
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Basharat Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 231296885,
+  "center": {
+    "lat": 33.6145797,
+    "lon": 72.9958775
+  },
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Amjad Medical Center"
+  }
+},
+{
+  "type": "way",
+  "id": 233729463,
+  "center": {
+    "lat": 33.7930778,
+    "lon": 72.7207202
+  },
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Noori"
+  }
+},
+{
+  "type": "way",
+  "id": 233729803,
+  "center": {
+    "lat": 33.7924445,
+    "lon": 72.7216459
+  },
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Elahi Baksh",
+    "name:ur": "الٰہی بخش"
+  }
+},
+{
+  "type": "way",
+  "id": 233729807,
+  "center": {
+    "lat": 33.7904951,
+    "lon": 72.7244239
+  },
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "no",
+    "healthcare": "hospital",
+    "name": "Uppal",
+    "name:ur": "اپل"
+  }
+},
+{
+  "type": "way",
+  "id": 233734382,
+  "center": {
+    "lat": 33.7835944,
+    "lon": 72.7226546
+  },
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Izzat Ali Shah"
+  }
+},
+{
+  "type": "way",
+  "id": 234457762,
+  "center": {
+    "lat": 33.6155134,
+    "lon": 73.0267121
+  },
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "healthcare": "hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 236166896,
+  "center": {
+    "lat": 33.5895387,
+    "lon": 73.0594517
+  },
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Hearts International"
+  }
+},
+{
+  "type": "way",
+  "id": 237508439,
+  "center": {
+    "lat": 33.6099112,
+    "lon": 73.0091465
+  },
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 238309977,
+  "center": {
+    "lat": 33.7507404,
+    "lon": 72.7844348
+  },
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "POF hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 256576288,
+  "center": {
+    "lat": 33.3666433,
+    "lon": 73.2386452
+  },
+  "tags": {
+    "addr:city": "Mandra",
+    "amenity": "hospital",
+    "building": "yes",
+    "emergency": "no",
+    "name": "Govt. Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 256582068,
+  "center": {
+    "lat": 33.3563745,
+    "lon": 73.2446674
+  },
+  "tags": {
+    "addr:city": "Mandra",
+    "addr:street": "Grand Trunk Road",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "RHC Mandra"
+  }
+},
+{
+  "type": "way",
+  "id": 256602194,
+  "center": {
+    "lat": 33.3494426,
+    "lon": 73.2000616
+  },
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Rural Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 256878504,
+  "center": {
+    "lat": 33.2535849,
+    "lon": 73.3086608
+  },
+  "tags": {
+    "addr:city": "Gujar Khan",
+    "addr:street": "Grand Trunk Road",
+    "amenity": "hospital",
+    "building": "yes",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Tehsil Headquarter Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 257133789,
+  "center": {
+    "lat": 33.3796135,
+    "lon": 73.2346771
+  },
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "LRBT Eye Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 257579790,
+  "center": {
+    "lat": 33.2606068,
+    "lon": 73.3135582
+  },
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Mubarak Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 257579792,
+  "center": {
+    "lat": 33.2860108,
+    "lon": 73.3510208
+  },
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Primary Health Center"
+  }
+},
+{
+  "type": "way",
+  "id": 257579794,
+  "center": {
+    "lat": 33.2993912,
+    "lon": 73.3894477
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "RHC Qazian"
+  }
+},
+{
+  "type": "way",
+  "id": 258521348,
+  "center": {
+    "lat": 33.2579743,
+    "lon": 73.3050604
+  },
+  "tags": {
+    "addr:city": "Gujar Khan",
+    "addr:housename": "Near DSP Office",
+    "addr:street": "Housing Scheme No.1",
+    "amenity": "doctors",
+    "building": "yes",
+    "name": "Ejaz Hafiz Rana, Children Hospital",
+    "opening_hours": "9:00-18:00",
+    "phone": "+92 51 3510883",
+    "toilets:wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 258522573,
+  "center": {
+    "lat": 33.2582654,
+    "lon": 73.3059432
+  },
+  "tags": {
+    "amenity": "doctors",
+    "building": "yes",
+    "name": "Rahim Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 258546878,
+  "center": {
+    "lat": 33.2023906,
+    "lon": 73.2771776
+  },
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Govt. Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 258925831,
+  "center": {
+    "lat": 33.3548782,
+    "lon": 73.2441490
+  },
+  "tags": {
+    "addr:city": "Mandra",
+    "amenity": "doctors",
+    "building": "yes",
+    "name": "Al Murtaza Meternity Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 261391001,
+  "center": {
+    "lat": 33.8273565,
+    "lon": 72.7342082
+  },
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 263938546,
+  "center": {
+    "lat": 33.6261548,
+    "lon": 73.0534519
+  },
+  "tags": {
+    "amenity": "hospital",
+    "name": "TB Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 268117265,
+  "center": {
+    "lat": 33.7457612,
+    "lon": 72.8172680
+  },
+  "tags": {
+    "amenity": "hospital",
+    "name": "Civil Hospital Taxila"
+  }
+},
+{
+  "type": "way",
+  "id": 268121695,
+  "center": {
+    "lat": 33.7448575,
+    "lon": 72.8016189
+  },
+  "tags": {
+    "amenity": "hospital",
+    "name": "Christian Hospital Taxila"
+  }
+},
+{
+  "type": "way",
+  "id": 286065660,
+  "center": {
+    "lat": 33.2025604,
+    "lon": 73.0479783
+  },
+  "tags": {
+    "addr:city": "Devi",
+    "addr:street": "Devi Data Rd",
+    "amenity": "hospital",
+    "name": "Health Centre Devi"
+  }
+},
+{
+  "type": "way",
+  "id": 441173217,
+  "center": {
+    "lat": 33.4921900,
+    "lon": 73.1000538
+  },
+  "tags": {
+    "amenity": "hospital",
+    "name": "Bagum Akhtar Rukhsana memorial Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 476484646,
+  "center": {
+    "lat": 33.5924667,
+    "lon": 73.0658643
+  },
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "addr:city:en": "Rawalpindi",
+    "addr:city:fr": "Rawalpindi",
+    "addr:city:pa": "ਰਾਵਲਪਿੰਡੀ",
+    "addr:city:pnb": "راولپنڈی",
+    "addr:city:ur": "راولپنڈی",
+    "addr:street": "Jhanda Chi Chi Road",
+    "amenity": "hospital",
+    "building": "hospital",
+    "name": "Jinnah Memorial Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 627832454,
+  "center": {
+    "lat": 33.5905573,
+    "lon": 73.0635304
+  },
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "addr:city:en": "Rawalpindi",
+    "addr:city:fr": "Rawalpindi",
+    "addr:city:pa": "ਰਾਵਲਪਿੰਡੀ",
+    "addr:city:pnb": "راولپنڈی",
+    "addr:city:ur": "راولپنڈی",
+    "addr:street": "Sir Syed Road",
+    "amenity": "clinic",
+    "building": "yes",
+    "healthcare": "clinic",
+    "name": "Bangash Clinic"
+  }
+},
+{
+  "type": "way",
+  "id": 686205092,
+  "center": {
+    "lat": 33.5986082,
+    "lon": 73.0503198
+  },
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "addr:city:en": "Rawalpindi",
+    "addr:city:fr": "Rawalpindi",
+    "addr:city:pa": "ਰਾਵਲਪਿੰਡੀ",
+    "addr:city:pnb": "راولپنڈی",
+    "addr:city:ur": "راولپنڈی",
+    "amenity": "hospital",
+    "name": "Cantonment Board Gen Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 687983764,
+  "center": {
+    "lat": 33.5541145,
+    "lon": 73.0585545
+  },
+  "tags": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "building": "yes",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Shaheen Chemist"
+  }
+},
+{
+  "type": "way",
+  "id": 687983842,
+  "center": {
+    "lat": 33.5544366,
+    "lon": 73.0583879
+  },
+  "tags": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "building": "yes",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Aziz Medical Store"
+  }
+},
+{
+  "type": "way",
+  "id": 833358961,
+  "center": {
+    "lat": 33.6185713,
+    "lon": 73.0726405
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Leprosy Hospital Rawalpindi"
+  }
+},
+{
+  "type": "way",
+  "id": 977482849,
+  "center": {
+    "lat": 33.3225931,
+    "lon": 73.3841001
+  },
+  "tags": {
+    "addr:city": "چنگا بنگیال",
+    "amenity": "hospital",
+    "healthcare": "hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 980181136,
+  "center": {
+    "lat": 33.2573062,
+    "lon": 73.3055188
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 995895934,
+  "center": {
+    "lat": 33.5600107,
+    "lon": 73.0919349
+  },
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "addr:city:en": "Rawalpindi",
+    "addr:city:fr": "Rawalpindi",
+    "addr:city:pa": "ਰਾਵਲਪਿੰਡੀ",
+    "addr:city:pnb": "راولپنڈی",
+    "addr:city:ur": "راولپنڈی",
+    "addr:street": "Grand Trunk Road",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Al-Shifa Eye Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 998136388,
+  "center": {
+    "lat": 33.5523248,
+    "lon": 73.0954809
+  },
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Fauji Foundation Hospital",
+    "name:en": "Fauji Foundation Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 1486398971,
+  "center": {
+    "lat": 33.3416008,
+    "lon": 73.5003551
+  },
+  "tags": {
+    "addr:city": "Kallar Syedan",
+    "addr:country": "PK",
+    "addr:housenumber": "100",
+    "addr:postcode": "47490",
+    "addr:street": "Hospital Road",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "is_in:country": "Pakistan",
+    "is_in:district": "Rawalpindi",
+    "is_in:state": "Punjab",
+    "is_in:town": "Samote",
+    "name": "Government Hospital Samote",
+    "name:en": "Government Hospital Samot",
+    "name:ur": "سرکاری ہسپتال سموٹ"
+  }
+},
+{
+  "type": "way",
+  "id": 1486399383,
+  "center": {
+    "lat": 33.3410396,
+    "lon": 73.4998257
+  },
+  "tags": {
+    "addr:country": "PK",
+    "addr:housenumber": "101",
+    "addr:postcode": "47490",
+    "addr:street": "Hospital Road",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "is_in:city": "Kallar Syedan",
+    "is_in:country": "Pakistan",
+    "is_in:district": "Rawalpindi",
+    "is_in:state": "Punjab",
+    "is_in:town": "Samot",
+    "name": "Animal Hospital Samot",
+    "name:ur": "جانوروں کا ہسپتال سموٹ"
+  }
+},
+{
+  "type": "relation",
+  "id": 3094969,
+  "center": {
+    "lat": 33.5956615,
+    "lon": 73.0441680
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "landuse": "military",
+    "name": "ملٹری ہسپتال",
+    "name:ar": "المستشفى العسكري",
+    "name:en": "Military Hospital",
+    "name:ur": "ملٹری ہسپتال",
+    "type": "multipolygon"
+  }
+}
+
+  ]
+}

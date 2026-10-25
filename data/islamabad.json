@@ -1,0 +1,2741 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-25T14:00:36Z",
+    "timestamp_areas_base": "2026-10-25T10:57:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 240218764,
+  "lat": 33.7104738,
+  "lon": 73.0417644,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Kohistan Road",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Ali Medical Centre",
+    "name:en": "Ali Medical Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 253018400,
+  "lat": 33.7211006,
+  "lon": 73.0828053,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "is_in": "G-6, Islamabad",
+    "name": "Poly Clinic Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 297648462,
+  "lat": 33.7054375,
+  "lon": 73.0794388,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Service Road East G-7",
+    "amenity": "hospital",
+    "name": "Islamabad International َDental Hospital and College",
+    "name:ur": "اسلام آباد انٹرنیشنل ڈینٹل ہسپتال اور کالج"
+  }
+},
+{
+  "type": "node",
+  "id": 312719028,
+  "lat": 33.7156183,
+  "lon": 73.0170436,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Rashid Minhas Boulevard",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "PAF Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 660956958,
+  "lat": 33.7297173,
+  "lon": 73.0755121,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "School Road",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Shaheen Pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 663128024,
+  "lat": 33.7296318,
+  "lon": 73.0753504,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "School Road",
+    "amenity": "pharmacy",
+    "brand": "Watsons",
+    "brand:wikidata": "Q7974785",
+    "brand:wikipedia": "en:Watsons",
+    "healthcare": "pharmacy",
+    "name": "Watsons"
+  }
+},
+{
+  "type": "node",
+  "id": 920248541,
+  "lat": 33.7115226,
+  "lon": 73.0414392,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Kohistan Road",
+    "contact:facebook": "https://www.facebook.com/IslamabadDiagnosticCentre",
+    "healthcare": "laboratory",
+    "name": "Islamabad Diagnostic Centre (Pvt) Ltd.",
+    "website": "https://idc.net.pk/"
+  }
+},
+{
+  "type": "node",
+  "id": 1140767607,
+  "lat": 33.7225704,
+  "lon": 73.0822723,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Shaheed-e-Millat Road",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Goodwill Pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 1668718996,
+  "lat": 33.6454153,
+  "lon": 73.1753981,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Shakeela Shabir Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 1668719004,
+  "lat": 33.6453694,
+  "lon": 73.1744526,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:housenumber": "Madina Town",
+    "addr:postcode": "46000",
+    "addr:street": "Lehtrar Road Alipur",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general",
+    "name": "Begam Jan Hospital",
+    "phone": "+923235380006"
+  }
+},
+{
+  "type": "node",
+  "id": 1669871304,
+  "lat": 33.6454292,
+  "lon": 73.1762726,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Ateeqa Medical Store"
+  }
+},
+{
+  "type": "node",
+  "id": 1669871371,
+  "lat": 33.6455319,
+  "lon": 73.1815083,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Mehria Medical Store"
+  }
+},
+{
+  "type": "node",
+  "id": 1669871458,
+  "lat": 33.6450541,
+  "lon": 73.1831712,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Hamza Medical Store"
+  }
+},
+{
+  "type": "node",
+  "id": 1669871527,
+  "lat": 33.6451345,
+  "lon": 73.1807841,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "name": "Alipur Medical Store"
+  }
+},
+{
+  "type": "node",
+  "id": 1669871546,
+  "lat": 33.6454783,
+  "lon": 73.1769163,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "New Gujarkhan Medical Store"
+  }
+},
+{
+  "type": "node",
+  "id": 1673425802,
+  "lat": 33.6450498,
+  "lon": 73.1834880,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "GujarKhan Medical Store"
+  }
+},
+{
+  "type": "node",
+  "id": 1698038182,
+  "lat": 33.5523812,
+  "lon": 73.1394165,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Shaheen Chemist"
+  }
+},
+{
+  "type": "node",
+  "id": 1707143902,
+  "lat": 33.7001979,
+  "lon": 73.0702433,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "FGD- G7/1 Dispensary"
+  }
+},
+{
+  "type": "node",
+  "id": 1707143912,
+  "lat": 33.7004344,
+  "lon": 73.0714557,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Federal Government Dispensary - G-7/1"
+  }
+},
+{
+  "type": "node",
+  "id": 1707177004,
+  "lat": 33.7070214,
+  "lon": 73.0780754,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "International Islamic Medical Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 2147104935,
+  "lat": 33.6924791,
+  "lon": 73.0301790,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Local path",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Bilquis Memorial Hospital",
+    "source": "Survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2413577888,
+  "lat": 33.5414841,
+  "lon": 73.1539679,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Sheheryar Medical Store"
+  }
+},
+{
+  "type": "node",
+  "id": 2604141784,
+  "lat": 33.6550843,
+  "lon": 73.2051385,
+  "tags": {
+    "addr:housename": "Farash Town, Islamabad",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Al Nafees Hospital & ISRA University"
+  }
+},
+{
+  "type": "node",
+  "id": 2656259979,
+  "lat": 33.6490366,
+  "lon": 73.0174122,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:housenumber": "H-11/4",
+    "addr:street": "Plot 94",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "NESCOM Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 2685020450,
+  "lat": 33.6410642,
+  "lon": 72.8880100,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Baba Yasin orthopedic",
+    "name:ur": "بابا یاسین"
+  }
+},
+{
+  "type": "node",
+  "id": 4261349011,
+  "lat": 33.7174231,
+  "lon": 73.0649213,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Street 54",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Dr Salma Kafeel Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 4406908789,
+  "lat": 33.7308751,
+  "lon": 73.0800905,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:postcode": "4400",
+    "addr:street": "Street 16",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Aziz Medical Center",
+    "opening_hours": "Mo-Fr 09:30-16:30",
+    "phone": "+92512873191",
+    "website": "http://amcpk.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4533827300,
+  "lat": 33.5665090,
+  "lon": 73.1375352,
+  "tags": {
+    "addr:street": "1278 A. St 15. O 9 Sector. Police Foundation. Near Tehzeeb Bakers. Islamabad",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Dua Family Hospital",
+    "name:en": "Dua Family Hospital",
+    "name:ur": "دعا فیملی ہسپتال",
+    "opening_hours": "Mo-Fr 17:00-21:00",
+    "phone": "03005818148"
+  }
+},
+{
+  "type": "node",
+  "id": 4562011451,
+  "lat": 33.6721651,
+  "lon": 73.0747389,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 4562014739,
+  "lat": 33.6673746,
+  "lon": 73.0753908,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:housenumber": "I 8",
+    "addr:street": "Tipu Sultan Road",
+    "amenity": "pharmacy",
+    "name": "Shaheen Chemist"
+  }
+},
+{
+  "type": "node",
+  "id": 4572463589,
+  "lat": 33.6555447,
+  "lon": 73.0544141,
+  "tags": {
+    "amenity": "pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 4581586890,
+  "lat": 33.6575297,
+  "lon": 73.0580065,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Ali hospital",
+    "name:en": "Ali hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4581606590,
+  "lat": 33.6616107,
+  "lon": 73.0669738,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "alhafeez medical store",
+    "name:en": "alhafeez medical store"
+  }
+},
+{
+  "type": "node",
+  "id": 4715980289,
+  "lat": 33.6522249,
+  "lon": 73.0158687,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:housenumber": "H-11/1",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "PAEC General Hospital",
+    "opening_hours": "24/7",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4732506421,
+  "lat": 33.6950300,
+  "lon": 73.0142582,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "medhelp chemist",
+    "name:en": "medhelp chemist"
+  }
+},
+{
+  "type": "node",
+  "id": 4783119127,
+  "lat": 33.6850003,
+  "lon": 73.0429764,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "al muslim pharmacy",
+    "name:en": "al muslim pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 4790230621,
+  "lat": 33.6849474,
+  "lon": 73.0428914,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "khalid pharmacy",
+    "name:en": "khalid pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 4874973780,
+  "lat": 33.7166075,
+  "lon": 73.0842635,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Street 92",
+    "amenity": "pharmacy",
+    "description": "A big store for buying medicines and drugs.",
+    "healthcare": "pharmacy",
+    "name": "Truworth Drug store"
+  }
+},
+{
+  "type": "node",
+  "id": 4880197902,
+  "lat": 33.6686625,
+  "lon": 72.9968373,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Sachal Sarmast Road (G-11)",
+    "amenity": "pharmacy",
+    "name": "Al-Rehman Medical Store"
+  }
+},
+{
+  "type": "node",
+  "id": 4880197909,
+  "lat": 33.6677207,
+  "lon": 72.9981512,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Shabir Sharif Road",
+    "amenity": "hospital",
+    "name": "Maryam Hospital and Diagnostic Center"
+  }
+},
+{
+  "type": "node",
+  "id": 4887841036,
+  "lat": 33.6836701,
+  "lon": 73.0135267,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Street 6",
+    "amenity": "pharmacy",
+    "name": "FGD - G-10/3, Dispensary"
+  }
+},
+{
+  "type": "node",
+  "id": 4889677808,
+  "lat": 33.6863031,
+  "lon": 73.0208068,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Service Road East G-10",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Al Ain International Specialist Eye Hospital",
+    "name:ur": "العین انٹرنیشنل سپیشلسٹ آئی ہسپتال",
+    "phone": "03005319353"
+  }
+},
+{
+  "type": "node",
+  "id": 4889677811,
+  "lat": 33.6776437,
+  "lon": 73.0318287,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Service Road South G9",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "K R L General Hospital",
+    "opening_hours": "Mo-Sa 11:00-14:00",
+    "phone": "0519106270"
+  }
+},
+{
+  "type": "node",
+  "id": 4889681828,
+  "lat": 33.6838516,
+  "lon": 73.0410940,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Street 55",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 4889681829,
+  "lat": 33.6846171,
+  "lon": 73.0417726,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Street 59",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "My Chemist"
+  }
+},
+{
+  "type": "node",
+  "id": 4889744126,
+  "lat": 33.6895030,
+  "lon": 73.0400877,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Gali 109",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Dr. Taliya's Clinic",
+    "phone": "0512260010"
+  }
+},
+{
+  "type": "node",
+  "id": 4899052823,
+  "lat": 33.6960409,
+  "lon": 73.0412787,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Street 9",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "National Institute for Handicapped",
+    "name:ur": "نیشنل انسٹی ٹیوٹ فار ہینڈی کیپڈ"
+  }
+},
+{
+  "type": "node",
+  "id": 4899052824,
+  "lat": 33.6963265,
+  "lon": 73.0419063,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Street 9",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "National Institute of Rehabilitation Medicine",
+    "name:ur": "نیشنل انسٹی ٹیوٹ آف ری ہیبلیٹیشن میڈیسن"
+  }
+},
+{
+  "type": "node",
+  "id": 4943934765,
+  "lat": 33.7350867,
+  "lon": 73.0937061,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Secretariat Road",
+    "amenity": "hospital",
+    "name": "Federal Government Dispensary(FGD)- P Block"
+  }
+},
+{
+  "type": "node",
+  "id": 4954380782,
+  "lat": 33.7263874,
+  "lon": 73.0882827,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Jinnah Avenue",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Islamabad Private Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4954642830,
+  "lat": 33.7224539,
+  "lon": 73.0820408,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "AKM Fazul Haq Road",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Nayab Labs & Diagnostic Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 4954642831,
+  "lat": 33.7224927,
+  "lon": 73.0821087,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "AKM Fazul Haq Road",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Hadi Jor Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 4954775564,
+  "lat": 33.7180912,
+  "lon": 73.0727516,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Service Road West F-6",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Kulsum International Hospital",
+    "name:ur": "کلثوم انٹرنیشنل ہسپتال"
+  }
+},
+{
+  "type": "node",
+  "id": 4956663343,
+  "lat": 33.7188404,
+  "lon": 73.0941091,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Ataturk Avenue (Embassy Road);Ataturk Avenue",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Haider Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 4958092906,
+  "lat": 33.6833320,
+  "lon": 72.9888393,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Hilal Road",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Shaheen Chemist"
+  }
+},
+{
+  "type": "node",
+  "id": 4958092907,
+  "lat": 33.6833528,
+  "lon": 72.9881473,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Hilal Road",
+    "amenity": "dentist",
+    "name": "Demure Dental Surgery"
+  }
+},
+{
+  "type": "node",
+  "id": 4958569728,
+  "lat": 33.6768020,
+  "lon": 73.0153103,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Sawan Road",
+    "amenity": "hospital",
+    "name": "Life Care international Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4961843228,
+  "lat": 33.6862496,
+  "lon": 73.0056544,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Street 30",
+    "amenity": "hospital",
+    "name": "IHS - Hospital for Children"
+  }
+},
+{
+  "type": "node",
+  "id": 4963837810,
+  "lat": 33.7102752,
+  "lon": 73.0319096,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Park Road",
+    "amenity": "dentist",
+    "name": "Park Road Dentist"
+  }
+},
+{
+  "type": "node",
+  "id": 4963936784,
+  "lat": 33.7129575,
+  "lon": 73.0375979,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Park Road",
+    "amenity": "hospital",
+    "name": "OGDCL Medical Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 4963977785,
+  "lat": 33.7090707,
+  "lon": 73.0503778,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Street 63",
+    "amenity": "hospital",
+    "name": "Chohan Eye Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4963977792,
+  "lat": 33.7080340,
+  "lon": 73.0384461,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Street 54",
+    "amenity": "dentist",
+    "name": "Rahman & Rahman Dental Surgeons"
+  }
+},
+{
+  "type": "node",
+  "id": 4964168702,
+  "lat": 33.7198918,
+  "lon": 73.0343455,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Lalak Jan Road",
+    "amenity": "hospital",
+    "name": "PNS Hafeez - Naval Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4964226920,
+  "lat": 33.7144555,
+  "lon": 73.0635591,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Jinnah Avenue",
+    "amenity": "hospital",
+    "name": "MEDICSi"
+  }
+},
+{
+  "type": "node",
+  "id": 4966256871,
+  "lat": 33.7088753,
+  "lon": 73.0555289,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Faisal Avenue",
+    "amenity": "pharmacy",
+    "name": "D.Watson Chemist"
+  }
+},
+{
+  "type": "node",
+  "id": 4966256875,
+  "lat": 33.7092472,
+  "lon": 73.0567891,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "AKM Fazul Haq Road",
+    "amenity": "pharmacy",
+    "name": "Citi Lab"
+  }
+},
+{
+  "type": "node",
+  "id": 4966256877,
+  "lat": 33.7098416,
+  "lon": 73.0579085,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "AKM Fazul Haq Road",
+    "amenity": "pharmacy",
+    "name": "Shaukat Khanum Laboratory Collection Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 4966256881,
+  "lat": 33.7100275,
+  "lon": 73.0582647,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "AKM Fazul Haq Road",
+    "amenity": "hospital",
+    "name": "Beewell Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4966290314,
+  "lat": 33.7117683,
+  "lon": 73.0704198,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Street 55",
+    "amenity": "pharmacy",
+    "name": "Federal Government Dispensar"
+  }
+},
+{
+  "type": "node",
+  "id": 4966360761,
+  "lat": 33.7054526,
+  "lon": 73.0681151,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Sachal Sarmast Road (G7)",
+    "amenity": "pharmacy",
+    "name": "Minahil Pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 4967673499,
+  "lat": 33.6992541,
+  "lon": 73.0487727,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Ravi Road",
+    "amenity": "pharmacy",
+    "name": "Shaheen Chemist"
+  }
+},
+{
+  "type": "node",
+  "id": 4967673500,
+  "lat": 33.6991657,
+  "lon": 73.0485887,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Ravi Road",
+    "amenity": "pharmacy",
+    "name": "Waheed Chemist And Optics"
+  }
+},
+{
+  "type": "node",
+  "id": 4967739862,
+  "lat": 33.6930909,
+  "lon": 73.0570095,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Street 23",
+    "amenity": "pharmacy",
+    "name": "Postal Dispensary"
+  }
+},
+{
+  "type": "node",
+  "id": 5034028423,
+  "lat": 33.6685086,
+  "lon": 72.9969804,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Al-Amin Chemist",
+    "name:en": "Al-Amin Chemist"
+  }
+},
+{
+  "type": "node",
+  "id": 5091739723,
+  "lat": 33.7221706,
+  "lon": 73.0639080,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Amanat Eye hospital",
+    "name:en": "Amanat Eye hospital",
+    "name:ur": "امانت آئی ہسپتال"
+  }
+},
+{
+  "type": "node",
+  "id": 5106849121,
+  "lat": 33.5652284,
+  "lon": 73.1523104,
+  "tags": {
+    "addr:street": "Fazal Plaza,Main Ave. Soan Garden",
+    "amenity": "pharmacy",
+    "name": "Medix Plus",
+    "opening_hours": "Mo-Su 09:00-24:00",
+    "phone": "0515738430"
+  }
+},
+{
+  "type": "node",
+  "id": 5117530798,
+  "lat": 33.5307500,
+  "lon": 73.1606153,
+  "tags": {
+    "addr:floor": "G",
+    "air_conditioning": "yes",
+    "amenity": "pharmacy",
+    "check_date": "2024-04-22",
+    "healthcare": "pharmacy",
+    "name": "Al Latif Pharmacy",
+    "opening_hours": "24/7",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:visa": "yes",
+    "second_hand": "no",
+    "stroller": "no",
+    "toilets:wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5138797829,
+  "lat": 33.7316919,
+  "lon": 73.0792102,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:housenumber": "First Floor, Mount View Plaza",
+    "addr:postcode": "44000",
+    "addr:street": "School Road, Super Market, F-6 Markaz",
+    "amenity": "dentist",
+    "healthcare": "dentist",
+    "name": "Z Dental Studio",
+    "opening_hours": "Mo-Sa 11:00-19:00",
+    "phone": "+92 345 533 6999",
+    "website": "https://www.islamabaddentist.net"
+  }
+},
+{
+  "type": "node",
+  "id": 5152915622,
+  "lat": 33.6524304,
+  "lon": 72.9584212,
+  "tags": {
+    "addr:housenumber": "Sector G-7/4",
+    "addr:street": "Street 40",
+    "amenity": "hospital",
+    "name": "Riphah International Dental Hospital University",
+    "opening_hours": "Mo-Sa 08:30-19:00; Su 00:00-24:00",
+    "phone": "0512891835"
+  }
+},
+{
+  "type": "node",
+  "id": 5165252847,
+  "lat": 33.5503077,
+  "lon": 73.1256281,
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "addr:city:en": "Rawalpindi",
+    "addr:city:fr": "Rawalpindi",
+    "addr:city:pa": "ਰਾਵਲਪਿੰਡੀ",
+    "addr:city:pnb": "راولپنڈی",
+    "addr:city:ur": "راولپنڈی",
+    "addr:street": "Allama Iqbal Avenue",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Reliance Hospital",
+    "name:ur": "ریلائنس ہسپتال"
+  }
+},
+{
+  "type": "node",
+  "id": 5183626221,
+  "lat": 33.7117407,
+  "lon": 73.0620440,
+  "tags": {
+    "addr:street": "AKM Fazul Haq Road",
+    "amenity": "clinic",
+    "check_date": "2024-10-17",
+    "name": "Agha Khan Laboratory Blue Area",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 5251807394,
+  "lat": 33.6246231,
+  "lon": 72.9724163,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:fr": "Islamabad",
+    "addr:city:pa": "ਇਸਲਾਮਾਬਾਦ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:postcode": "45210",
+    "addr:street": "Service Road",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Boots Pharmacy Grocery Cosmetics"
+  }
+},
+{
+  "type": "node",
+  "id": 5251807396,
+  "lat": 33.6245387,
+  "lon": 72.9726232,
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "addr:city:en": "Rawalpindi",
+    "addr:city:fr": "Rawalpindi",
+    "addr:city:pa": "ਰਾਵਲਪਿੰਡੀ",
+    "addr:city:pnb": "راولپنڈی",
+    "addr:city:ur": "راولپنڈی",
+    "addr:street": "Service Road",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "KKT Orthopedic Spine Center"
+  }
+},
+{
+  "type": "node",
+  "id": 5284838223,
+  "lat": 33.6950023,
+  "lon": 73.0515555,
+  "tags": {
+    "amenity": "doctors",
+    "name": "Capital Diagnostic Center"
+  }
+},
+{
+  "type": "node",
+  "id": 5518884868,
+  "lat": 33.6692640,
+  "lon": 73.0002249,
+  "tags": {
+    "addr:street": "G-11 Markaz",
+    "amenity": "pharmacy",
+    "name": "Shaheen Chemist",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 5595053022,
+  "lat": 33.6517178,
+  "lon": 72.9639736,
+  "tags": {
+    "amenity": "dentist",
+    "name": "Dental Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 5595279927,
+  "lat": 33.6685704,
+  "lon": 72.9971978,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Islamabad Diagnostics Center",
+    "name:ur": "اسلام آباد ڈائیگناسٹک سنٹر"
+  }
+},
+{
+  "type": "node",
+  "id": 5688012621,
+  "lat": 33.6554634,
+  "lon": 72.9632819,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 5979229386,
+  "lat": 33.7410171,
+  "lon": 73.1776675,
+  "tags": {
+    "addr:city": "Barakahu",
+    "addr:street": "Simly Dam Road",
+    "amenity": "doctors",
+    "healthcare": "doctor",
+    "name": "Doctor Khaliq Raheem Medical Centre",
+    "phone": "03005225383"
+  }
+},
+{
+  "type": "node",
+  "id": 6178448886,
+  "lat": 33.7089655,
+  "lon": 73.0554701,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Shaheen Chemist"
+  }
+},
+{
+  "type": "node",
+  "id": 6178526685,
+  "lat": 33.7191069,
+  "lon": 73.0755159,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Abid Hospital",
+    "name:ur": "عابد ہسپتال"
+  }
+},
+{
+  "type": "node",
+  "id": 6178544585,
+  "lat": 33.6453905,
+  "lon": 72.9643448,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Anwar Capital Hospital Pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 6186225788,
+  "lat": 33.6457560,
+  "lon": 72.9637335,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Clinics and Diagnostics Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 6186304588,
+  "lat": 33.5631047,
+  "lon": 73.1419481,
+  "tags": {
+    "amenity": "clinic",
+    "name": "Salfi House",
+    "operator": "Iqbal Salfi"
+  }
+},
+{
+  "type": "node",
+  "id": 6197345385,
+  "lat": 33.7216895,
+  "lon": 73.0701043,
+  "tags": {
+    "addr:housenumber": "16",
+    "addr:postcode": "44000",
+    "addr:street": "Service Road West F-6",
+    "amenity": "dentist",
+    "email": "dental2g8@gmail.com",
+    "healthcare": "dentist",
+    "internet_access": "wlan",
+    "name": "D’Intel Dental Practice",
+    "opening_hours": "Mo-Sa 09:00-21:00",
+    "phone": "0512823446"
+  }
+},
+{
+  "type": "node",
+  "id": 6199004686,
+  "lat": 33.6794571,
+  "lon": 73.0333924,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Ali Hospital",
+    "phone": "0514444435"
+  }
+},
+{
+  "type": "node",
+  "id": 6208198786,
+  "lat": 33.6754692,
+  "lon": 73.0138330,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Healer’s Pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 6208198887,
+  "lat": 33.6760172,
+  "lon": 73.0144411,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "TM Pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 6208198888,
+  "lat": 33.6757188,
+  "lon": 73.0139200,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Medicin Square"
+  }
+},
+{
+  "type": "node",
+  "id": 6208206588,
+  "lat": 33.6764623,
+  "lon": 73.0156937,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Latif Health Centre",
+    "name:en": "Latif Health Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 6208726886,
+  "lat": 33.6754658,
+  "lon": 73.0154374,
+  "tags": {
+    "amenity": "doctors",
+    "healthcare": "doctor",
+    "name": "Dr. Seema Ansari"
+  }
+},
+{
+  "type": "node",
+  "id": 6219159985,
+  "lat": 33.6731737,
+  "lon": 73.0040255,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Capital Institute of Health Sciences (CIHS)"
+  }
+},
+{
+  "type": "node",
+  "id": 6237656989,
+  "lat": 33.6555520,
+  "lon": 72.9633589,
+  "tags": {
+    "amenity": "clinic",
+    "name": "Dr. Shahid’s Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 6265094288,
+  "lat": 33.6990693,
+  "lon": 73.0529620,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:street": "حنا روڈ",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "نوری ہسپتال اسلام آباد",
+    "name:en": "Noori Hospital Islamabad",
+    "name:ur": "نوری ہسپتال اسلام آباد"
+  }
+},
+{
+  "type": "node",
+  "id": 6432256681,
+  "lat": 33.6456706,
+  "lon": 72.9638728,
+  "tags": {
+    "addr:city": "islamabad",
+    "addr:housenumber": "-",
+    "addr:street": "Street 110",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Clinic and Dignostic Centre",
+    "operator": "-"
+  }
+},
+{
+  "type": "node",
+  "id": 6432380589,
+  "lat": 33.6439991,
+  "lon": 72.9587939,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Iqbal Pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 6432414579,
+  "lat": 33.6452961,
+  "lon": 72.9641192,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Anwer Capital Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 6432452500,
+  "lat": 33.6452554,
+  "lon": 72.9634726,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Nasir Pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 6521223343,
+  "lat": 33.7149444,
+  "lon": 73.0333152,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:housenumber": "Block 1",
+    "addr:postcode": "44220",
+    "addr:street": "Street 22",
+    "alt_name": "Surgical Centre",
+    "amenity": "hospital",
+    "emergency": "no",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general;gynaecology;orthopaedics;dermatology;surgery;clinic",
+    "name": "Surgical Centre Islamabad"
+  }
+},
+{
+  "type": "node",
+  "id": 6658591445,
+  "lat": 33.5418933,
+  "lon": 73.1553234,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Zayneb Hospital",
+    "name:ur": "زینب ہسپتال"
+  }
+},
+{
+  "type": "node",
+  "id": 6658591446,
+  "lat": 33.5414502,
+  "lon": 73.1495837,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Aziz Hospital",
+    "name:ur": "عزیز ہسپتال"
+  }
+},
+{
+  "type": "node",
+  "id": 7417878942,
+  "lat": 33.6448002,
+  "lon": 73.1726511,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:housenumber": "Nai abadi",
+    "addr:postcode": "46000",
+    "addr:street": "Alipur, Lethrar Road",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general;surgery;gynaecology;ophthalmology;paediatrics",
+    "name": "HBS General Hospital",
+    "phone": "+92512621044"
+  }
+},
+{
+  "type": "node",
+  "id": 8063291085,
+  "lat": 33.5250327,
+  "lon": 73.1616276,
+  "tags": {
+    "amenity": "doctors",
+    "name": "susral"
+  }
+},
+{
+  "type": "node",
+  "id": 8841662156,
+  "lat": 33.6976835,
+  "lon": 73.0491988,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Max Health Hospital",
+    "name:ur": "میکس ہیلتھ ہسپتال"
+  }
+},
+{
+  "type": "node",
+  "id": 9501618144,
+  "lat": 33.6917797,
+  "lon": 72.9443070,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "شفاء ہیلتھ کئیر ہسپتال",
+    "name:ur": "شفاء ہیلتھ کئیر ہسپتال",
+    "opening_hours": "08:00-21:30",
+    "phone": "+923023255553",
+    "website": "https://shifa-health-care-hospital.business.site/"
+  }
+},
+{
+  "type": "node",
+  "id": 9534110317,
+  "lat": 33.6230109,
+  "lon": 72.9645556,
+  "tags": {
+    "amenity": "clinic",
+    "name": "Mushtaq Baig Shaheed Medical Clinic",
+    "type": "building"
+  }
+},
+{
+  "type": "node",
+  "id": 9925726786,
+  "lat": 33.6504840,
+  "lon": 72.9718291,
+  "tags": {
+    "addr:street": "Street 138",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "level": "-1",
+    "name": "Najeeb Pharmacy",
+    "opening_hours": "24/7",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9941338277,
+  "lat": 33.6453414,
+  "lon": 72.9635642,
+  "tags": {
+    "healthcare": "laboratory",
+    "level": "2",
+    "name": "Islamabad Diagnostics Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 10763758031,
+  "lat": 33.6584431,
+  "lon": 72.8560532,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "B&S Pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 10763758164,
+  "lat": 33.6585124,
+  "lon": 72.8559934,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Islamabad Pharma"
+  }
+},
+{
+  "type": "node",
+  "id": 10777530835,
+  "lat": 33.7309694,
+  "lon": 73.0638096,
+  "tags": {
+    "amenity": "dentist",
+    "healthcare": "dentist",
+    "name": "Dentist Niazi"
+  }
+},
+{
+  "type": "node",
+  "id": 11052958159,
+  "lat": 33.6248116,
+  "lon": 73.1599745,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Health Care Pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 11068308487,
+  "lat": 33.7040908,
+  "lon": 73.0569170,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "healthcare:speciality": "internal",
+    "name": "Testing Hospital Ismail"
+  }
+},
+{
+  "type": "node",
+  "id": 11117044405,
+  "lat": 33.7000353,
+  "lon": 72.9729789,
+  "tags": {
+    "amenity": "pharmacy",
+    "name:es": "Najeeb Pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 11185339209,
+  "lat": 33.7111740,
+  "lon": 73.0417786,
+  "tags": {
+    "addr:street": "13-A Kohistan Road, Kiran Plaza, F-8 Markaz, Islamabad",
+    "amenity": "hospital",
+    "name": "Islamabad Specialists Clinic F-8 Markaz"
+  }
+},
+{
+  "type": "node",
+  "id": 11207571137,
+  "lat": 33.6161371,
+  "lon": 73.1375852,
+  "tags": {
+    "addr:street": "Ghori Town Main Road",
+    "amenity": "pharmacy",
+    "name": "Prime Pharmacy",
+    "opening_hours": "Mo-Su 09:00-12:00",
+    "phone": "0512157753"
+  }
+},
+{
+  "type": "node",
+  "id": 11217189672,
+  "lat": 33.6963846,
+  "lon": 73.0502887,
+  "tags": {
+    "addr:street": "G-8 Markaz",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Advanced International Hospital G-8 Markaz",
+    "name:ur": "ایڈوانسڈ انٹرنیشنل ہسپتال"
+  }
+},
+{
+  "type": "node",
+  "id": 11268713199,
+  "lat": 33.7075986,
+  "lon": 73.0148593,
+  "tags": {
+    "addr:street": "Main Margalla Road, E-9/1, Islamabad",
+    "amenity": "hospital",
+    "name": "PAF Hospital, Unit 2 Parking"
+  }
+},
+{
+  "type": "node",
+  "id": 11655758860,
+  "lat": 33.5214526,
+  "lon": 73.0916469,
+  "tags": {
+    "addr:city": "Islamabad",
+    "addr:housenumber": "Shaheen Chowk",
+    "addr:postcode": "44000",
+    "addr:street": "Bahria Expy",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "healthcare:speciality": "dermatology;dermatovenereology",
+    "name": "AT Skin & Aesthetic Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 11835524869,
+  "lat": 33.5783590,
+  "lon": 73.1470029,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hakim KAZMI"
+  }
+},
+{
+  "type": "node",
+  "id": 11835847176,
+  "lat": 33.5311546,
+  "lon": 73.1600509,
+  "tags": {
+    "addr:floor": "G",
+    "amenity": "pharmacy",
+    "brand": "D Watson",
+    "check_date": "2024-04-22",
+    "dispensing": "no",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "internet_access": "no",
+    "name": "D Watson Medicine",
+    "name:en": "D Watson",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:visa": "yes",
+    "source": "local knowledge",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11836573851,
+  "lat": 33.5311955,
+  "lon": 73.1579644,
+  "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2024-04-22",
+    "healthcare": "pharmacy",
+    "name": "Medicure Pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 11836574230,
+  "lat": 33.5311701,
+  "lon": 73.1584745,
+  "tags": {
+    "check_date": "2024-04-22",
+    "healthcare": "laboratory",
+    "name": "Excel Labs"
+  }
+},
+{
+  "type": "node",
+  "id": 12143774524,
+  "lat": 33.6300435,
+  "lon": 73.1189166,
+  "tags": {
+    "addr:city": "Islamabad",
+    "addr:housenumber": "Ground Floor",
+    "addr:street": "Satti Arcade Lehtrar Road Khanna Pul",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "diabetology",
+    "name": "Alam Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 12215025180,
+  "lat": 33.6520132,
+  "lon": 73.1954238,
+  "tags": {
+    "addr:city": "islamabad",
+    "addr:housenumber": "new gujjar khan medical store",
+    "addr:street": "Lehtrar Road",
+    "amenity": "hospital",
+    "email": "rahimhyder795@gmail.com",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "healthcare:speciality": "dentist;pharmacy",
+    "mobile": "+923421945217",
+    "name": "new gujjar khan medical store"
+  }
+},
+{
+  "type": "node",
+  "id": 12229985624,
+  "lat": 33.6621889,
+  "lon": 73.0215720,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "IIUI MEDICAL CENTRE"
+  }
+},
+{
+  "type": "node",
+  "id": 12384969502,
+  "lat": 33.6643883,
+  "lon": 72.8610327,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Ghulam mehdi memorial hospital GMMH"
+  }
+},
+{
+  "type": "node",
+  "id": 12754325901,
+  "lat": 33.6302840,
+  "lon": 73.1149925,
+  "tags": {
+    "addr:street": "Service Road East",
+    "amenity": "hospital",
+    "name": "Elaaj International Hospital Islamabad",
+    "opening_hours": "24/7",
+    "phone": "(051) 2619276",
+    "website": "https://elaajinternationalhospital.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 12754336401,
+  "lat": 33.6327853,
+  "lon": 73.1130521,
+  "tags": {
+    "addr:street": "Service Road East",
+    "amenity": "hospital",
+    "name": "Health International Hospital",
+    "opening_hours": "24/7",
+    "phone": "(051) 2619271"
+  }
+},
+{
+  "type": "node",
+  "id": 12756505501,
+  "lat": 33.6327990,
+  "lon": 73.1267905,
+  "tags": {
+    "addr:street": "Lehtrar Road",
+    "healthcare": "laboratory",
+    "name": "Islamabad Diagnostic Centre Sanam Chowk Branch",
+    "opening_hours": "Mo-Su 07:30-22:00",
+    "phone": "0311 1000432",
+    "website": "https://idc.net.pk/"
+  }
+},
+{
+  "type": "node",
+  "id": 12844548570,
+  "lat": 33.6689967,
+  "lon": 73.0004123,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "noor generar hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 13233399419,
+  "lat": 33.5504519,
+  "lon": 73.1256581,
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "addr:housenumber": "118 block c civic center bahria town",
+    "addr:postcode": "46220",
+    "addr:street": "bahria town phase 4",
+    "amenity": "hospital",
+    "email": "standardcarehospitalsch@gmail.com",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general;dentist;otolaryngology;radiology;physiotherapy;allergology",
+    "mobile": "051-2744321",
+    "name": "standard care hospital",
+    "name:ur": "اسٹینڈرڈ کیئر ہسپتال",
+    "operator": "Standard Care Hospital",
+    "operator:type": "private",
+    "phone": "051-2744321"
+  }
+},
+{
+  "type": "node",
+  "id": 13358961526,
+  "lat": 33.7208767,
+  "lon": 73.0562762,
+  "tags": {
+    "amenity": "doctors",
+    "check_date": "2025-12-07",
+    "healthcare": "doctor",
+    "healthcare:speciality": "plastic_surgery",
+    "name": "Surgical and Aesthetic Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 13358961530,
+  "lat": 33.7209486,
+  "lon": 73.0564328,
+  "tags": {
+    "amenity": "doctors",
+    "check_date": "2025-12-07",
+    "healthcare": "doctor",
+    "healthcare:speciality": "plastic_surgery",
+    "name": "Moeens Cosmetics"
+  }
+},
+{
+  "type": "node",
+  "id": 13625545467,
+  "lat": 33.6923207,
+  "lon": 72.8316394,
+  "tags": {
+    "addr:city": "Islamabad",
+    "addr:housenumber": "Upper ground floor. Mellow Multi Mall.",
+    "addr:postcode": "44000",
+    "addr:street": "MR 2",
+    "amenity": "dentist",
+    "contact:facebook": "https://www.facebook.com/everestdentalandaestheticslounge/",
+    "healthcare": "dentist",
+    "healthcare:speciality": "dental_oral_maxillo_facial_surgery;dentist;dentistry;dermatology",
+    "name": "Everest Dental and Aesthetics Lounge",
+    "opening_hours": "24/7",
+    "operator": "Dr. Izza Umbrin"
+  }
+},
+{
+  "type": "node",
+  "id": 13715619790,
+  "lat": 33.5417626,
+  "lon": 73.1085159,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Bahria Town OPD Complex"
+  }
+},
+{
+  "type": "node",
+  "id": 14255393101,
+  "lat": 33.6963830,
+  "lon": 73.0129788,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "D. Watson Pharmacy"
+  }
+},
+{
+  "type": "way",
+  "id": 22328601,
+  "center": {
+    "lat": 33.7022057,
+    "lon": 73.0526383
+  },
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Ibn-e-Sina Road",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Pakistan Institute for Medical Sciences (PIMS)"
+  }
+},
+{
+  "type": "way",
+  "id": 22999246,
+  "center": {
+    "lat": 33.6994213,
+    "lon": 73.0535524
+  },
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:street": "حنا روڈ",
+    "amenity": "hospital",
+    "area": "yes",
+    "healthcare": "hospital",
+    "name": "نوری ہسپتال",
+    "name:ar": "مستشفى نوري",
+    "name:en": "Noori Hospital",
+    "name:ur": "نوری ہسپتال"
+  }
+},
+{
+  "type": "way",
+  "id": 23040333,
+  "center": {
+    "lat": 33.6759211,
+    "lon": 73.0667951
+  },
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Pitras Bukhari Road",
+    "amenity": "hospital",
+    "email": "info@shifa.com.pk",
+    "name": "Shifa International Hospital",
+    "phone": "+92-51-846-3000",
+    "website": "https://www.shifa.com.pk/contact/"
+  }
+},
+{
+  "type": "way",
+  "id": 23635809,
+  "center": {
+    "lat": 33.7166307,
+    "lon": 73.0799988
+  },
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Street 18",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "CDA Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 154909045,
+  "center": {
+    "lat": 33.6427938,
+    "lon": 73.1995266
+  },
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Ali Medical Store"
+  }
+},
+{
+  "type": "way",
+  "id": 209859224,
+  "center": {
+    "lat": 33.6441192,
+    "lon": 72.9978725
+  },
+  "tags": {
+    "amenity": "hospital",
+    "name": "Nust Medical Center"
+  }
+},
+{
+  "type": "way",
+  "id": 235084098,
+  "center": {
+    "lat": 33.6250779,
+    "lon": 72.9730323
+  },
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:fr": "Islamabad",
+    "addr:city:pa": "ਇਸਲਾਮਾਬਾਦ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:postcode": "45210",
+    "addr:street": "سروس روڈ",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general;psychiatry;chiropractic;orthopaedics;emergency;gynaecology;radiology;surgery;oncology",
+    "name": "Quaid-e-Azam International Hospital",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 254608237,
+  "center": {
+    "lat": 33.6549682,
+    "lon": 73.2053959
+  },
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "emergency": "yes",
+    "name": "Nafees Hospital ISRA University"
+  }
+},
+{
+  "type": "way",
+  "id": 260274365,
+  "center": {
+    "lat": 33.6868972,
+    "lon": 73.1386525
+  },
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "check_date": "2025-11-19",
+    "emergency": "no",
+    "healthcare": "hospital",
+    "name": "NIH"
+  }
+},
+{
+  "type": "way",
+  "id": 263457301,
+  "center": {
+    "lat": 33.7252034,
+    "lon": 73.0727365
+  },
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "no",
+    "healthcare": "hospital",
+    "name": "FM Dental Clinic"
+  }
+},
+{
+  "type": "way",
+  "id": 263829331,
+  "center": {
+    "lat": 33.6324354,
+    "lon": 73.1223103
+  },
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Rawal Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 263922691,
+  "center": {
+    "lat": 33.6446906,
+    "lon": 73.1705940
+  },
+  "tags": {
+    "addr:city": "Alipur",
+    "addr:street": "Lehtrar Road",
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Islamabad Medical Complex"
+  }
+},
+{
+  "type": "way",
+  "id": 283736195,
+  "center": {
+    "lat": 33.6231606,
+    "lon": 72.9640999
+  },
+  "tags": {
+    "amenity": "clinic",
+    "building": "yes",
+    "name": "Mushtaq Baig Shaheed Medical Clinic"
+  }
+},
+{
+  "type": "way",
+  "id": 307856160,
+  "center": {
+    "lat": 33.5319477,
+    "lon": 73.1417458
+  },
+  "tags": {
+    "amenity": "clinic",
+    "building": "yes",
+    "healthcare": "clinic",
+    "name": "DHA Clinic",
+    "operator": "DHA",
+    "operator:type": "private"
+  }
+},
+{
+  "type": "way",
+  "id": 391947342,
+  "center": {
+    "lat": 33.6640472,
+    "lon": 72.9959488
+  },
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:postcode": "44000",
+    "addr:street": "اسٹریٹ 8",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "ویل میڈ ہسپتال",
+    "name:en": "Well Med Hospital",
+    "name:ur": "ویل میڈ ہسپتال",
+    "operator": "ڈاکٹر شعیب حمید",
+    "operator:en": "Dr. Shoaib Hameed",
+    "operator:ur": "ڈاکٹر شعیب حمید"
+  }
+},
+{
+  "type": "way",
+  "id": 432916133,
+  "center": {
+    "lat": 33.6208147,
+    "lon": 73.0017000
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Social Security Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 439835000,
+  "center": {
+    "lat": 33.6430879,
+    "lon": 73.0416130
+  },
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:housenumber": "I-10/1",
+    "addr:street": "Street 16",
+    "amenity": "clinic",
+    "building": "yes",
+    "name": "CDA Dispensary"
+  }
+},
+{
+  "type": "way",
+  "id": 560495163,
+  "center": {
+    "lat": 33.6896972,
+    "lon": 72.9755680
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Golra Hospital",
+    "name:ur": "گولڑہ ہسپتال"
+  }
+},
+{
+  "type": "way",
+  "id": 562137834,
+  "center": {
+    "lat": 33.6866335,
+    "lon": 73.2092313
+  },
+  "tags": {
+    "amenity": "clinic",
+    "building": "yes",
+    "healthcare": "clinic"
+  }
+},
+{
+  "type": "way",
+  "id": 996254508,
+  "center": {
+    "lat": 33.5661997,
+    "lon": 73.1298696
+  },
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "healthcare": "hospital",
+    "name": "شفیع انٹرنیشنل ہسپتال",
+    "name:en": "Shaafi International Hospital",
+    "name:ur": "شفیع انٹرنیشنل ہسپتال"
+  }
+},
+{
+  "type": "way",
+  "id": 1097694476,
+  "center": {
+    "lat": 33.6488185,
+    "lon": 73.1557714
+  },
+  "tags": {
+    "amenity": "clinic",
+    "building": "yes",
+    "healthcare": "clinic",
+    "name": "Inam Ul Haq Medical Center"
+  }
+},
+{
+  "type": "way",
+  "id": 1159392036,
+  "center": {
+    "lat": 33.6509974,
+    "lon": 73.1572233
+  },
+  "tags": {
+    "amenity": "clinic",
+    "building": "yes",
+    "name": "Medical Center",
+    "source": "microsoft/BuildingFootprints"
+  }
+},
+{
+  "type": "way",
+  "id": 1472604712,
+  "center": {
+    "lat": 33.7690761,
+    "lon": 73.0717557
+  },
+  "tags": {
+    "addr:city": "اسلام  آباد",
+    "addr:housenumber": "Q39C+JM5, Gokina, Pakistan",
+    "addr:street": "Pir Sohawa Road",
+    "amenity": "clinic",
+    "building": "yes",
+    "emergency": "yes",
+    "healthcare": "clinic",
+    "healthcare:speciality": "general",
+    "name": "Gokina Medical Center"
+  }
+},
+{
+  "type": "way",
+  "id": 1472917062,
+  "center": {
+    "lat": 33.7558999,
+    "lon": 73.2099061
+  },
+  "tags": {
+    "addr:city": "islamabad",
+    "addr:postcode": "45400",
+    "addr:street": "Phulgran Road",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Dr. Akbar Niazi Teaching Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 1476955088,
+  "center": {
+    "lat": 33.5369427,
+    "lon": 73.1559363
+  },
+  "tags": {
+    "addr:city": "islamabad",
+    "addr:housenumber": "plaza no 31, sector D, DHA 2",
+    "addr:postcode": "45730",
+    "amenity": "hospital",
+    "contact:facebook": "https://www.facebook.com/vetnariapetshospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "pet_clinic;animal_hospital",
+    "mobile": "+923331112524",
+    "name": "Vetnaria Pets Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 1503459290,
+  "center": {
+    "lat": 33.5262588,
+    "lon": 73.2045222
+  },
+  "tags": {
+    "amenity": "hospital",
+    "building:levels": "12",
+    "healthcare": "hospital",
+    "height": "48",
+    "name": "NovaCare Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 1507897423,
+  "center": {
+    "lat": 33.5327583,
+    "lon": 73.1965246
+  },
+  "tags": {
+    "amenity": "pharmacy",
+    "building": "yes",
+    "healthcare": "pharmacy",
+    "name": "CureMed Pharmacy"
+  }
+},
+{
+  "type": "way",
+  "id": 1531420543,
+  "center": {
+    "lat": 33.6857178,
+    "lon": 73.1545888
+  },
+  "tags": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "healthcare": "hospital"
+  }
+},
+{
+  "type": "relation",
+  "id": 15678907,
+  "center": {
+    "lat": 33.7471800,
+    "lon": 73.1356371
+  },
+  "tags": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "کیو اے یو میڈیکل مرکز",
+    "name:en": "QAU Medical Centre",
+    "name:ur": "کیو اے یو میڈیکل مرکز",
+    "type": "multipolygon"
+  }
+}
+
+  ]
+}

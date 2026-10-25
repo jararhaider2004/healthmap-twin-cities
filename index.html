@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>HealthMap Twin Cities</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css">
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <button id="menu">&#9776;</button>
+  <div><h1>HealthMap Twin Cities</h1><p>Hospitals, clinics &amp; pharmacies in Islamabad and Rawalpindi from the OpenStreetMap Overpass API</p></div>
+</header>
+<main>
+  <aside id="sidebar">
+    <section>
+      <h2>Study area</h2>
+      <p>Islamabad (federal capital) and Rawalpindi (Punjab) are the twin cities, home to more than 5 million people who share the same health services.</p>
+      <select id="area">
+        <option value="both">Islamabad + Rawalpindi</option>
+        <option value="islamabad">Islamabad Capital Territory</option>
+        <option value="rawalpindi">Rawalpindi District</option>
+      </select>
+    </section>
+    <section>
+      <h2>Search &amp; filter</h2>
+      <input id="search" type="search" placeholder="Search name, street or speciality...">
+      <div id="cats"></div>
+      <label><input type="checkbox" id="emergency"> Only facilities with emergency</label>
+      <button id="nearBtn">Show facilities near me</button>
+      <button id="resetBtn" class="ghost">Reset</button>
+    </section>
+    <section>
+      <h2>Results <span id="count">0</span></h2>
+      <ul id="results"></ul>
+    </section>
+    <section>
+      <h2>Data source</h2>
+      <p>Fetched with <code>fetch()</code> from the Overpass API. Data &copy; OpenStreetMap contributors (ODbL).</p>
+      <p id="source"></p>
+    </section>
+  </aside>
+  <div id="map">
+    <div id="loading"><div class="spinner"></div>Fetching facilities from the Overpass API...</div>
+    <div id="error" hidden><span id="errorText"></span> <button id="retry">Try again</button></div>
+  </div>
+</main>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
